@@ -14,29 +14,26 @@
  <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=FF9900&labelColor=000000" alt="License">
 </p>
 
-# 💻 Projeto
+## 💻 Projeto
 
 Este projeto é um dos desafios da trilha Explorer da [Rocketseat](https://www.rocketseat.com.br/)
 
 - Codificar o layout apresentado no Figma;
 - Aplicar os conhecimentos adquiridos no Stage02 - Introdução ao HTML e CSS;
 - Responsividade ainda não foi aplicada.
-<br>
 
-# 🧪 Tecnologias
+## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-<br>
 
-# 🔍 Preview
+## 🔍 Preview
 
 Para visualizar o projeto [clique aqui](https://gqueico.github.io/explorer-projeto-01/)
-<br>
 
-# 🚀 Como executar
+## 🚀 Como executar
 
 Faça o clone do projeto
 ```bash
@@ -47,8 +44,6 @@ Acesse a pasta e abra o arquivo index em seu navegador de preferência
 ```bash
 cd explorer-projeto-01
 ```
-<br>
-
-# 📝 Licença
+## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
