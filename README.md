@@ -22,8 +22,6 @@ Este projeto é um dos desafios da trilha Explorer da [Rocketseat](https://www.r
 - Aplicar os conhecimentos adquiridos no Stage02 - Introdução ao HTML e CSS;
 - Responsividade ainda não foi aplicada.
 <br>
-<br>
-<br>
 
 # 🧪 Tecnologias
 
@@ -32,14 +30,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 <br>
-<br>
-<br>
 
 # 🔍 Preview
 
 Para visualizar o projeto [clique aqui](https://gqueico.github.io/explorer-projeto-01/)
-<br>
-<br>
 <br>
 
 # 🚀 Como executar
@@ -54,9 +48,7 @@ Acesse a pasta e abra o arquivo index em seu navegador de preferência
 cd explorer-projeto-01
 ```
 <br>
-<br>
-<br>
 
 # 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]() para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
