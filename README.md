@@ -17,15 +17,11 @@
 
 ## 💻 Projeto
 
-Este projeto é um dos desafios da trilha Explorer da [Rocketseat](https://www.rocketseat.com.br/)
-
-- Codificar o layout apresentado no Figma;
-- Aplicar os conhecimentos adquiridos no Stage02 - Introdução ao HTML e CSS;
-- Responsividade ainda não foi aplicada.
+O objetivo desse projeto foi aplicar os conhecimentos adquiridos no Stage 02 - Introdução ao HTML e CSS do curso Explorer da [Rocketseat](https://www.rocketseat.com.br/), codificando o layout apresentado no Figma para uma página web. A responsividade será aplicada em breve.
 
 ## 🧪 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Tecnologias utilizadas durante o desenvolvimento do projeto:
 
 - HTML
 - CSS
