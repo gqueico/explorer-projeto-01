@@ -29,21 +29,19 @@ Tecnologias utilizadas durante o desenvolvimento do projeto:
 
 ## 🌎 Acesse o site
 
-Para visualizar o projeto <a href="(https://gqueico.github.io/explorer-projeto-01/" target="_blank">clique aqui</a>
+<p>Para visualizar o projeto <a href="(https://gqueico.github.io/explorer-projeto-01/" target="_blank">clique aqui</a></p>
 
 ## 🚀 Como executar
 
-- Primeiro faça o clone do repositório 
+  Primeiro faça o clone do repositório 
   
   `git clone https://github.com/gqueico/explorer-projeto-01.git`
 
-- Acesse a pasta do projeto
+  Acesse a pasta do projeto
 
   `cd explorer-projeto-01`
 
-- Pronto! 
-  
-  Agora abra o arquivo `index` no seu navegador.
+  Pronto! Agora abra o arquivo `index` no seu navegador.
 
 ## 📝 Licença
 
