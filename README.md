@@ -29,7 +29,7 @@ Tecnologias utilizadas durante o desenvolvimento do projeto:
 
 ## 🌎 Acesse o site
 
-<p>Para visualizar o projeto <a href="(https://gqueico.github.io/explorer-projeto-01/" target="_blank">clique aqui</a></p>
+Para visualizar o projeto [clique aqui](https://gqueico.github.io/explorer-projeto-01/)
 
 ## 🚀 Como executar
 
@@ -41,7 +41,7 @@ Tecnologias utilizadas durante o desenvolvimento do projeto:
 
   `cd explorer-projeto-01`
 
-  Pronto! Agora abra o arquivo `index` no seu navegador.
+  Pronto! Agora abra o arquivo `index` no seu navegador
 
 ## 📝 Licença
 
