@@ -45,4 +45,4 @@ Para visualizar o projeto [clique aqui](https://gqueico.github.io/explorer-proje
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença `MIT`. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
