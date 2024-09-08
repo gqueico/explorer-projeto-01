@@ -18,7 +18,7 @@
 
 ## 💻 Projeto
 
-Landing page desenvolvida com foco na apresentação da marca e captura de potenciais clientes.
+Landing page desenvolvida com foco na apresentação da marca e na captura de potenciais clientes.
 
 ## 🧪 Tecnologias
 
