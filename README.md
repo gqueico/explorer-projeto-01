@@ -18,7 +18,7 @@
 
 ## 💻 Projeto
 
-O objetivo desse projeto foi aplicar os conhecimentos adquiridos no Stage 02 - Introdução ao HTML e CSS do curso Explorer da [Rocketseat](https://www.rocketseat.com.br/), codificando o layout apresentado no Figma para uma página web. A responsividade será aplicada em breve.
+Landing page desenvolvida com foco na apresentação da marca e captura de potenciais clientes.
 
 ## 🧪 Tecnologias
 
